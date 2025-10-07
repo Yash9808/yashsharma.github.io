@@ -72,3 +72,11 @@ Machine learning for real-time tactile perception
 Memristor and neuromorphic hardware for artificial touch
 
 Cost-effective sensor integration for intelligent automation
+
+# 🚀 Hackathon Projects
+
+| | |
+|:--:|:--|
+| <img width="400" alt="WhatsApp Universal Translator" src="https://github.com/user-attachments/assets/70df4561-b87b-4b25-b46a-5940f9a3d150" /> | **[WhatsApp Universal Translator](https://neon-dieffenbachia-2124b7.netlify.app)**  <br><br> The **WhatsApp Universal Translator** is a Chrome Extension that automatically detects and translates incoming WhatsApp messages in real time using the **LibreTranslate API**. Translations appear just below the original messages, allowing users to communicate seamlessly across languages without leaving the chat. <br><br> 🔧 *Built With:* `bolt` `css` `html` `javascript` `typescript` <br><br> 🌐 [**Live Demo**](https://neon-dieffenbachia-2124b7.netlify.app) • [**GitHub Repo**](https://github.com/) |
+| <img width="400" alt="Ortho Alignment Tracker" src="https://github.com/user-attachments/assets/1ead508d-5d7c-4e6e-aaa9-abf6b9f704cb" /> | **[Ortho Alignment Tracker](https://sprightly-hummingbird-1e057f.netlify.app)**  <br><br> The **Ortho Alignment Tracker** is a contactless hand assessment tool using **computer vision** and **MediaPipe** to analyze finger positions and detect potential misalignments, tremors, or posture irregularities — all without physical sensors. Designed for accessibility, it enables fast orthopedic pre-checks across age groups. <br><br> 🔧 *Built With:* `bolt` `netlify` `supabase` <br><br> 🌐 [**Live Demo 1**](https://sprightly-hummingbird-1e057f.netlify.app) • [**Live Demo 2**](https://earnest-bunny-01ab80.netlify.app) |
+
