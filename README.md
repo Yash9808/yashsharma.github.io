@@ -84,5 +84,10 @@ Cost-effective sensor integration for intelligent automation
 Master's Thesis Project
 <img width="340" height="354" alt="Screenshot 2025-09-17 102845" src="https://github.com/user-attachments/assets/7c4eb59f-a62e-437f-ace3-8c8ff0d3033f" />
 
+<img width="426" height="299" alt="Screenshot 2025-09-17 103016" src="https://github.com/user-attachments/assets/1e65a7c6-3c95-448c-b8f5-f8d91fd8a6b7" />
+<img width="329" height="220" alt="Screenshot 2025-09-17 102942" src="https://github.com/user-attachments/assets/b60ba082-f2c4-4d6e-ba29-54130b191ba1" />
+<img width="359" height="242" alt="Screenshot 2025-09-17 102914" src="https://github.com/user-attachments/assets/6e18a906-3fff-4729-96da-301fb8b4089f" />
+<img width="1280" height="720" alt="MENG_proejcts" src="https://github.com/user-attachments/assets/b0f23cc1-9fbb-4f34-bc2b-3dd0e4c4d03e" />
+
 
 
