@@ -82,7 +82,7 @@ Cost-effective sensor integration for intelligent automation
 | <img width="400" alt="Ortho Alignment Tracker" src="https://github.com/user-attachments/assets/19b6b1b4-5849-4c12-9e7d-428503e9677d" /> | **[Ortho Alignment Tracker](https://sprightly-hummingbird-1e057f.netlify.app)**  <br><br> The **Ortho Alignment Tracker** is a contactless hand assessment tool using **computer vision** and **MediaPipe** to analyze finger positions and detect potential misalignments, tremors, or posture irregularities — all without physical sensors. Designed for accessibility, it enables fast orthopedic pre-checks across age groups. <br><br> 🔧 *Built With:* `bolt` `netlify` `supabase` <br><br> 🌐 [**Live Demo 1**](https://sprightly-hummingbird-1e057f.netlify.app) • [**Live Demo 2**](https://earnest-bunny-01ab80.netlify.app) |
 
 
-# 🧩 Projects
+# 🧩 Projects  
 
 | | |
 |:--:|:--|
