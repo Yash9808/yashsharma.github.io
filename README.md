@@ -4,8 +4,8 @@ I am **Yash Sharma**, and I have completed my PhD viva at [**Loughborough Univer
 My research focuses on developing **tactile perception systems for robotics** using **machine learning techniques** inspired by **biological sensory mechanisms**. Specifically, my work draws on concepts from **mechanoreception** and **threshold-based encoding** to create **bio-inspired approaches** for enhancing robotic touch and perception.
 
 📘 Selected Publications
-Mechanoreceptor-Inspired Tactile Sensor Topological Configurations for Hardness Classification in Robotic Grippers
 
+Mechanoreceptor-Inspired Tactile Sensor Topological Configurations for Hardness Classification in Robotic Grippers
 Sharma, Y.; Guo, C.; Beatty, M.; Justham, L.; Ferreira, P.
 Electronics, 14, 674 (2025).
 Applied supervised ML algorithms to classify hardness levels from tactile sensor data, validating how data-driven models complement bio-inspired hardware.
