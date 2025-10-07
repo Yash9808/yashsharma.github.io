@@ -46,6 +46,8 @@ Nature Communications Engineering, 3, 163 (2024).
 Contributed to developing flexible diffusive memristors that mimic biological neuron spiking under mechanical stress, enabling tactile sensing and AI-driven signal processing.
 
 <p align="center"> <img src="path/to/image6.jpg" alt="Neuron spiking memristor" width="400"/><br> <em>Stress-induced spiking behavior in diffusive memristor device</em> </p>
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1ead508d-5d7c-4e6e-aaa9-abf6b9f704cb" />
+
 🔬 Research Themes
 
 Bio-inspired tactile sensing for robotic manipulation
