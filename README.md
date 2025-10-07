@@ -23,7 +23,7 @@ Electronics, 13, 2450 (2024).
 Designed Random Forest and SVM models to transform noisy tactile data into robust hardness predictions, showing ML’s role in affordable robotic perception.
 
 </td> </tr> </table>
-<table> <tr> <td width="30%"> <img width="250" alt="Real-time tactile prediction" src="" /> </td> <td width="70%">
+<table> <tr> <td width="30%"> <img width="250" alt="Real-time tactile prediction" src="https://github.com/user-attachments/assets/824f4ce3-6e55-4da6-9853-372e71d3fb84" /> </td> <td width="70%">
 
 Real-Time Hardness Prediction Using COTS Tactile Sensors in Robotic Grippers
 
