@@ -14,7 +14,7 @@ Electronics, 14, 674 (2025).
 Applied supervised ML algorithms to classify hardness levels from tactile sensor data, validating how data-driven models complement bio-inspired hardware.
 
 </td> </tr> </table>
-<table> <tr> <td width="30%"> <img width="250" alt="COTS tactile sensor setup" src="https://github.com/user-attachments/assets/b6e53b95-b98c-499d-bd76-f45485efd9dc" /> </td> <td width="70%">
+<table> <tr> <td width="30%"> <img width="250" alt="COTS tactile sensor setup" src="https://github.com/user-attachments/assets/b0b01f31-97e2-4077-871a-ed03b83eecfe" /> </td> <td width="70%">
 
 Hardness Classification Using Cost-Effective Off-the-Shelf Tactile Sensors Inspired by Mechanoreceptors
 
@@ -23,7 +23,7 @@ Electronics, 13, 2450 (2024).
 Designed Random Forest and SVM models to transform noisy tactile data into robust hardness predictions, showing ML’s role in affordable robotic perception.
 
 </td> </tr> </table>
-<table> <tr> <td width="30%"> <img width="250" alt="Real-time tactile prediction" src="https://github.com/user-attachments/assets/b0b01f31-97e2-4077-871a-ed03b83eecfe" /> </td> <td width="70%">
+<table> <tr> <td width="30%"> <img width="250" alt="Real-time tactile prediction" src="" /> </td> <td width="70%">
 
 Real-Time Hardness Prediction Using COTS Tactile Sensors in Robotic Grippers
 
