@@ -7,7 +7,7 @@ My research focuses on developing **tactile perception systems for robotics** us
 
 <table> <tr> <td width="30%"> <img width="250" alt="Mechanoreceptor sensor topology" src="https://github.com/user-attachments/assets/b6e53b95-b98c-499d-bd76-f45485efd9dc" /> </td> <td width="70%">
 
-Mechanoreceptor-Inspired Tactile Sensor Topological Configurations for Hardness Classification in Robotic Grippers
+[**Mechanoreceptor-Inspired Tactile Sensor Topological Configurations for Hardness Classification in Robotic Grippers**](https://www.mdpi.com/2079-9292/14/4/674)
 
 Sharma, Y.; Guo, C.; Beatty, M.; Justham, L.; Ferreira, P.
 Electronics, 14, 674 (2025).
@@ -16,7 +16,7 @@ Applied supervised ML algorithms to classify hardness levels from tactile sensor
 </td> </tr> </table>
 <table> <tr> <td width="30%"> <img width="250" alt="COTS tactile sensor setup" src="https://github.com/user-attachments/assets/b0b01f31-97e2-4077-871a-ed03b83eecfe" /> </td> <td width="70%">
 
-Hardness Classification Using Cost-Effective Off-the-Shelf Tactile Sensors Inspired by Mechanoreceptors
+[**Hardness Classification Using Cost-Effective Off-the-Shelf Tactile Sensors Inspired by Mechanoreceptors**](https://www.mdpi.com/2079-9292/13/13/2450)
 
 Sharma, Y.; Ferreira, P.; Justham, L.
 Electronics, 13, 2450 (2024).
@@ -25,7 +25,7 @@ Designed Random Forest and SVM models to transform noisy tactile data into robus
 </td> </tr> </table>
 <table> <tr> <td width="30%"> <img width="250" alt="Real-time tactile prediction" src="https://github.com/user-attachments/assets/1d2e06de-82da-47ab-8559-2c409fdae7bf" /> </td> <td width="70%">
 
-Real-Time Hardness Prediction Using COTS Tactile Sensors in Robotic Grippers
+[**Real-Time Hardness Prediction Using COTS Tactile Sensors in Robotic Grippers**](https://www.mdpi.com/2673-4591/82/1/111)
 
 Sharma, Y.; Akhbari, S.; Guo, C.; Ferreira, P.; Justham, L.
 Engineering Proceedings, 82, 111 (2024).
@@ -35,7 +35,7 @@ Developed and deployed real-time ML models for streaming tactile data, enabling 
 <table> <tr> <td width="30%"> <img width="250" alt="Mechanoreceptor emulation" src="https://github.com/user-attachments/assets/855c23cb-75a7-4523-8b03-d33674132410" /> </td> <td width="70%">
 
 
-Investigating the Use of Low-Cost Tactile Sensors in Emulating Mechanoreceptor Patterns and Hardness-Based Classification
+[**Investigating the Use of Low-Cost Tactile Sensors in Emulating Mechanoreceptor Patterns and Hardness-Based Classification**](https://ieeexplore.ieee.org/document/10569468)
 
 Sharma, Y.; Ferreira, P.; Justham, L.; Beatty, M.
 IEEE-IRAS Conference (10th ICCAR 2024).
@@ -44,7 +44,7 @@ Explored neuromorphic encoding and ML techniques to emulate biological mechanore
 </td> </tr> </table>
 <table> <tr> <td width="30%"> <img width="250" alt="Memristor tactile neuron" src="https://github.com/user-attachments/assets/ec0be639-78b7-4d46-9a37-bd4515415cf7" /> </td> <td width="70%">
 
-Performing Hardness Classification Using Diffusive Memristor-Based Artificial Neurons
+[**Performing Hardness Classification Using Diffusive Memristor-Based Artificial Neurons**](https://iopscience.iop.org/article/10.1088/2631-8695/ad937a)
 
 Sharma, Y.; Pattnaik, D. P.
 IOP Publishing (2024).
@@ -53,7 +53,7 @@ Implemented ML models to analyze signal responses from memristor-based tactile s
 </td> </tr> </table>
 <table> <tr> <td width="30%"> <img width="250" alt="Neuron spiking memristor" src="https://github.com/user-attachments/assets/1ead508d-5d7c-4e6e-aaa9-abf6b9f704cb" /> </td> <td width="70%">
 
-Stress-Induced Artificial Neuron Spiking in Diffusive Memristors
+[**Stress-Induced Artificial Neuron Spiking in Diffusive Memristors**](https://www.nature.com/articles/s44172-024-00315-z)
 
 Pattnaik, D. P.; Sharma, Y.; Savel’ev, S. et al.
 Nature Communications Engineering, 3, 163 (2024).
