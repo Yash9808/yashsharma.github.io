@@ -82,23 +82,13 @@ Cost-effective sensor integration for intelligent automation
 | <img width="400" alt="Ortho Alignment Tracker" src="https://github.com/user-attachments/assets/19b6b1b4-5849-4c12-9e7d-428503e9677d" /> | **[Ortho Alignment Tracker](https://sprightly-hummingbird-1e057f.netlify.app)**  <br><br> The **Ortho Alignment Tracker** is a contactless hand assessment tool using **computer vision** and **MediaPipe** to analyze finger positions and detect potential misalignments, tremors, or posture irregularities — all without physical sensors. Designed for accessibility, it enables fast orthopedic pre-checks across age groups. <br><br> 🔧 *Built With:* `bolt` `netlify` `supabase` <br><br> 🌐 [**Live Demo 1**](https://sprightly-hummingbird-1e057f.netlify.app) • [**Live Demo 2**](https://earnest-bunny-01ab80.netlify.app) |
 
 
-# 🧩 Projects  
+# 🧩 Projects
 
 | | |
 |:--:|:--|
-
-| <img width="350" alt="Master's Thesis Project" src="https://github.com/user-attachments/assets/b0f23cc1-9fbb-4f34-bc2b-3dd0e4c4d03e" /> | **Master’s Thesis Project:** *Sensing and Predicting a Harsh Environment Using an ML-IoT Device*  
-Developed an **IoT-based monitoring system** integrating **machine learning models** to predict environmental changes in harsh environments. Designed a data-driven sensor network for **real-time analysis** and **predictive maintenance** using cloud-based processing. |
-
-| <img width="350" alt="Bachelor's Thesis BRICR Robot" src="https://github.com/user-attachments/assets/87ee3c8d-23aa-4386-a452-2c6422e3c0ce" /> | **[Bachelor’s Thesis: Blockage Removal and RF-Controlled Pipe Inspection Robot (BRICR)](https://www.ijeetc.com/uploadfile/2017/0731/20170731022556904.pdf)**  
-*Y. Sharma, K. Deepak, P. Kumar, A. Chauhan*  
-*International Journal of Electronics and Telecommunication*, 4, 62–68.  
-Developed an **RF-controlled robotic system** for remote pipeline inspection and blockage removal. Integrated **sensor feedback**, **wireless control**, and **modular hardware** for maintenance in constrained environments. |
-
-| <img width="350" alt="Data Science Hospital Framework" src="https://github.com/user-attachments/assets/750b5364-72bc-4c4f-8276-f3b9b3925686" /> | **Data Science Project:** *Hospital Diagnostic Data Framework — Chartwell Hospital*  
-Worked as a **Data Scientist** to design a data analytics framework for **hospital diagnostic pipelines**. Built workflows for **data cleaning, transformation, and visualization** using ML-based analytics. Implemented **data storage pipelines** to enhance hospital diagnostics and patient management. |
-
-| <img width="350" alt="XR Device Evaluation Research" src="https://github.com/user-attachments/assets/3cae29c6-4055-46ba-81cb-b0c88ee3c388" /> | **[Research Paper: Evaluation of XR Devices’ Real-World Tracking Accuracy and Depth Perception](https://link.springer.com/content/pdf/10.1007/s10055-025-01192-3.pdf)**  
-Explored the **6-DoF tracking accuracy**, **depth perception**, and **drift accumulation** of XR systems like **HTC Vive XR Elite** and **Magic Leap 2**. Demonstrated how XR tools can enhance **digital assembly, maintenance, and remote collaboration** in industrial applications. |
+| <img width="400" alt="Master's Thesis Project" src="https://github.com/user-attachments/assets/b0f23cc1-9fbb-4f34-bc2b-3dd0e4c4d03e" /> | **Master’s Thesis Project:** *Sensing and Predicting a Harsh Environment Using an ML-IoT Device*  <br><br> Developed an **IoT-based monitoring system** integrating **machine learning models** to predict environmental changes in harsh environments. Designed a data-driven sensor network for **real-time analysis** and **predictive maintenance** using cloud-based processing. |
+| <img width="400" alt="Bachelor's Thesis BRICR Robot" src="https://github.com/user-attachments/assets/87ee3c8d-23aa-4386-a452-2c6422e3c0ce" /> | **[Bachelor’s Thesis: Blockage Removal and RF-Controlled Pipe Inspection Robot (BRICR)](https://www.ijeetc.com/uploadfile/2017/0731/20170731022556904.pdf)**  <br><br> *Y. Sharma, K. Deepak, P. Kumar, A. Chauhan*  <br> *International Journal of Electronics and Telecommunication*, 4, 62–68.  <br><br> Developed an **RF-controlled robotic system** for remote pipeline inspection and blockage removal. Integrated **sensor feedback**, **wireless control**, and **modular hardware** for maintenance in constrained environments. |
+| <img width="400" alt="Data Science Hospital Framework" src="https://github.com/user-attachments/assets/750b5364-72bc-4c4f-8276-f3b9b3925686" /> | **Data Science Project:** *Hospital Diagnostic Data Framework — Chartwell Hospital*  <br><br> Worked as a **Data Scientist** to design a data analytics framework for **hospital diagnostic pipelines**. Built workflows for **data cleaning, transformation, and visualization** using ML-based analytics. Implemented **data storage pipelines** to enhance hospital diagnostics and patient management. |
+| <img width="400" alt="XR Device Evaluation Research" src="https://github.com/user-attachments/assets/3cae29c6-4055-46ba-81cb-b0c88ee3c388" /> | **[Research Paper: Evaluation of XR Devices’ Real-World Tracking Accuracy and Depth Perception](https://link.springer.com/content/pdf/10.1007/s10055-025-01192-3.pdf)**  <br><br> Explored the **6-DoF tracking accuracy**, **depth perception**, and **drift accumulation** of XR systems like **HTC Vive XR Elite** and **Magic Leap 2**. Demonstrated how XR tools can enhance **digital assembly, maintenance, and remote collaboration** in industrial applications. |
 
 
