@@ -14,7 +14,7 @@ Electronics, 14, 674 (2025).
 Applied supervised ML algorithms to classify hardness levels from tactile sensor data, validating how data-driven models complement bio-inspired hardware.
 
 </td> </tr> </table>
-<table> <tr> <td width="30%"> <img width="250" alt="COTS tactile sensor setup" src="https://github.com/user-attachments/assets/EXAMPLE2" /> </td> <td width="70%">
+<table> <tr> <td width="30%"> <img width="250" alt="COTS tactile sensor setup" src="https://github.com/user-attachments/assets/b6e53b95-b98c-499d-bd76-f45485efd9dc" /> </td> <td width="70%">
 
 Hardness Classification Using Cost-Effective Off-the-Shelf Tactile Sensors Inspired by Mechanoreceptors
 
