@@ -42,7 +42,7 @@ IEEE-IRAS Conference (10th ICCAR 2024).
 Explored neuromorphic encoding and ML techniques to emulate biological mechanoreceptor behavior using inexpensive tactile sensors for robotic perception.
 
 </td> </tr> </table>
-<table> <tr> <td width="30%"> <img width="250" alt="Memristor tactile neuron" src="https://github.com/user-attachments/assets/EXAMPLE5" /> </td> <td width="70%">
+<table> <tr> <td width="30%"> <img width="250" alt="Memristor tactile neuron" src="https://github.com/user-attachments/assets/ec0be639-78b7-4d46-9a37-bd4515415cf7" /> </td> <td width="70%">
 
 Performing Hardness Classification Using Diffusive Memristor-Based Artificial Neurons
 
