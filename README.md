@@ -5,7 +5,7 @@ My research focuses on developing **tactile perception systems for robotics** us
 
 📘 Selected Publications
 
-<table> <tr> <td width="30%"> <img width="250" alt="Mechanoreceptor sensor topology" src="https://github.com/user-attachments/assets/EXAMPLE1" /> </td> <td width="70%">
+<table> <tr> <td width="30%"> <img width="250" alt="Mechanoreceptor sensor topology" src="https://github.com/user-attachments/assets/b6e53b95-b98c-499d-bd76-f45485efd9dc" /> </td> <td width="70%">
 
 Mechanoreceptor-Inspired Tactile Sensor Topological Configurations for Hardness Classification in Robotic Grippers
 
