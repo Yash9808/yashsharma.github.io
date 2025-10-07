@@ -32,7 +32,8 @@ Engineering Proceedings, 82, 111 (2024).
 Developed and deployed real-time ML models for streaming tactile data, enabling robotic grippers to infer material hardness with minimal latency.
 
 </td> </tr> </table>
-<table> <tr> <td width="30%"> <img width="250" alt="Mechanoreceptor emulation" src="https://github.com/user-attachments/assets/EXAMPLE4" /> </td> <td width="70%">
+<table> <tr> <td width="30%"> <img width="250" alt="Mechanoreceptor emulation" src="https://github.com/user-attachments/assets/855c23cb-75a7-4523-8b03-d33674132410" /> </td> <td width="70%">
+
 
 Investigating the Use of Low-Cost Tactile Sensors in Emulating Mechanoreceptor Patterns and Hardness-Based Classification
 
