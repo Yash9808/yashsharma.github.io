@@ -100,3 +100,9 @@ Cost-effective sensor integration for intelligent automation
 | <img width="400" alt="2D SLAM Simulation" src="https://github.com/user-attachments/assets/7297cc93-7062-48e8-b719-d84fcc6d914f" /> | **[🛰️ 2D SLAM Simulation](https://huggingface.co/spaces/YashsharmaPhD/Automatic_SLAM_based_movement_simulation)**  <br><br> Implemented **Simultaneous Localization and Mapping (SLAM)** in a 2D environment using AI-based movement tracking and mapping. Enables autonomous robot navigation and environment reconstruction. |
 | <img width="400" alt="Diffusive VRAM NN" src="https://github.com/user-attachments/assets/727d8110-dc50-4a45-9856-5eb9803bdbc0" /> | **[🧩 Diffusive VRAM Neural Network](https://huggingface.co/spaces/YashsharmaPhD/Diffusive_VRAM_NN)**  <br><br> Developed a **VRAM-based neural network diffusion model** for visual processing and pattern analysis. Includes an interactive Streamlit demo for real-time exploration.  <br><br> 🌐 [**Trial App**](https://yngdhgxdxgfypojpb9kcqb.streamlit.app/) |
 
+## 📊 Dataset Repositories
+
+| Repository | Description |
+|:--|:--|
+| **[IOP-Paper-Spike-data-ML-outcome](https://github.com/Yash9808/IOP-Paper-Spike-data-ML-outcome)** | Contains spike values from diffusive memristor and FSR sensor data for different objects in a robotic gripper. Includes Python scripts for preprocessing, analysis, and ML modeling. :contentReference[oaicite:0]{index=0} |
+| **[MDPI-Electronics-paper-Data-for-Topology](https://github.com/Yash9808/MDPI-Electronics-paper-Data-for-Topology-)** | Includes data on various COTS tactile sensor topologies, real-time testing datasets, and ML approaches for classification and performance evaluation. :contentReference[oaicite:1]{index=1} |
