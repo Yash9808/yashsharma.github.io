@@ -106,3 +106,9 @@ Cost-effective sensor integration for intelligent automation
 |:--|:--|
 | **[IOP-Paper-Spike-data-ML-outcome](https://github.com/Yash9808/IOP-Paper-Spike-data-ML-outcome)** | Contains spike values from diffusive memristor and FSR sensor data for different objects in a robotic gripper. Includes Python scripts for preprocessing, analysis, and ML modeling. :contentReference[oaicite:0]{index=0} |
 | **[MDPI-Electronics-paper-Data-for-Topology](https://github.com/Yash9808/MDPI-Electronics-paper-Data-for-Topology-)** | Includes data on various COTS tactile sensor topologies, real-time testing datasets, and ML approaches for classification and performance evaluation. :contentReference[oaicite:1]{index=1} |
+
+## Video
+
+
+https://github.com/user-attachments/assets/6feae5a7-f3fd-4eed-a8b1-6353bdc4fe41
+
